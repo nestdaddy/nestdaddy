@@ -35,6 +35,6 @@ Web search, news and research data for apps and AI agents.
 curl "https://nestdaddy.com/api/v1/search?q=model+context+protocol" -H "X-API-Key: YOUR_KEY"
 ```
 
-Free 7-day trial with 5,000 calls, no card: **[get a key](https://nestdaddy.com/apis)**.
+Free plan with 1,000 calls every month, no card: **[get a key](https://nestdaddy.com/apis)**.
 
 <sub>Building with NestDaddy? Our [affiliate programme](https://nestdaddy.com/affiliates) pays 30% for life.</sub>
