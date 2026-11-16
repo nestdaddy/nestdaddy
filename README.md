@@ -38,3 +38,5 @@ curl "https://nestdaddy.com/api/v1/search?q=model+context+protocol" -H "X-API-Ke
 Free plan with 1,000 calls every month, no card: **[get a key](https://nestdaddy.com/apis)**.
 
 <sub>Building with NestDaddy? Our [affiliate programme](https://nestdaddy.com/affiliates) pays 30% for life.</sub>
+
+Building AI agents? Join our community, **Agent Builders**, on [Discord](https://discord.gg/CXStfSFC3v).
