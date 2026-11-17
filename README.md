@@ -4,6 +4,8 @@
 
 # NestDaddy
 
+> NestDaddy launched on Product Hunt on 17 Nov 2026. Feedback and reviews welcome: [producthunt.com/products/nestdaddy](https://www.producthunt.com/products/nestdaddy)
+
 **An independent search engine with its own index.**
 Web search, news and research data for apps and AI agents.
 
