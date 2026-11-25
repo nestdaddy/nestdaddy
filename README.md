@@ -21,7 +21,7 @@ Web search, news and research data for apps and AI agents.
 |---|---|
 | **NestDaddy Search** | Web and news search from our own crawler and index, not a wrapper around another engine. |
 | **Search & News API** | Plain JSON for web search, news by key words, topic and country, the readable text of any page, and research papers. |
-| **NestDaddy Memory** | If you want your AI projects to perform, you need memory. One memory for every AI you use: tell it once, and every AI you connect remembers it tomorrow, on every device. Any MCP app, any model. First month free, no card. [nestdaddy-memory](https://github.com/nestdaddy/nestdaddy-memory) · [nestdaddy.com/memory](https://nestdaddy.com/memory). Listed as `com.nestdaddy/memory`. |
+| **NestDaddy Memory** | If you want your AI projects to perform, you need memory. One memory for every AI you use: tell it once, and every AI you connect remembers it tomorrow, on every device. Any MCP app, any model. 7 days free, then $9.99 a month. [nestdaddy-memory](https://github.com/nestdaddy/nestdaddy-memory) · [nestdaddy.com/memory](https://nestdaddy.com/memory). Listed as `com.nestdaddy/memory`. |
 | **NestDaddy MCP** | One remote MCP server that gives Claude, Cursor, VS Code, n8n and any MCP client live search and news. Listed in the [Official MCP Registry](https://registry.modelcontextprotocol.io) as `com.nestdaddy/nestdaddy` and on [Glama](https://glama.ai/mcp/connectors/com.nestdaddy/nestdaddy). [![NestDaddy MCP connector](https://glama.ai/mcp/connectors/com.nestdaddy/nestdaddy/badges/score.svg)](https://glama.ai/mcp/connectors/com.nestdaddy/nestdaddy) |
 
 ### Open source examples
@@ -39,7 +39,7 @@ Web search, news and research data for apps and AI agents.
 curl "https://nestdaddy.com/api/v1/search?q=model+context+protocol" -H "X-API-Key: YOUR_KEY"
 ```
 
-Start with 1,000 free credits, no card, no time limit: **[get a key](https://nestdaddy.com/apis)**.
+Every plan starts with 7 days free: **[get a key](https://nestdaddy.com/pricing)**.
 
 <sub>Building with NestDaddy? Our [affiliate programme](https://nestdaddy.com/affiliates) pays 30% for life.</sub>
 
