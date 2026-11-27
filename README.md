@@ -21,17 +21,17 @@ Web search, news and research data for apps and AI agents.
 |---|---|
 | **NestDaddy Search** | Web and news search from our own crawler and index, not a wrapper around another engine. |
 | **Search & News API** | Plain JSON for web search, news by key words, topic and country, the readable text of any page, and research papers. |
-| **NestDaddy Memory** | If you want your AI projects to perform, you need memory. One memory for every AI you use: tell it once, and every AI you connect remembers it tomorrow, on every device. Any MCP app, any model. 7 days free, then $9.99 a month. [nestdaddy-memory](https://github.com/nestdaddy/nestdaddy-memory) · [nestdaddy.com/memory](https://nestdaddy.com/memory). Listed as `com.nestdaddy/memory`. |
+| **NestDaddy Memory** | If you want your AI projects to perform, you need memory. One memory for every AI you use: tell it once, and every AI you connect remembers it tomorrow, on every device. Any MCP app, any model. 7 days free, then $9.99 a month. [nestdaddy-memory](https://github.com/nestdaddy-ai/nestdaddy-memory) · [nestdaddy.com/memory](https://nestdaddy.com/memory). Listed as `com.nestdaddy/memory`. |
 | **NestDaddy MCP** | One remote MCP server that gives Claude, Cursor, VS Code, n8n and any MCP client live search and news. Listed in the [Official MCP Registry](https://registry.modelcontextprotocol.io) as `com.nestdaddy/nestdaddy` and on [Glama](https://glama.ai/mcp/connectors/com.nestdaddy/nestdaddy). [![NestDaddy MCP connector](https://glama.ai/mcp/connectors/com.nestdaddy/nestdaddy/badges/score.svg)](https://glama.ai/mcp/connectors/com.nestdaddy/nestdaddy) |
 
 ### Open source examples
 
 | Repository | |
 |---|---|
-| [nestdaddy-memory](https://github.com/nestdaddy/nestdaddy-memory) | Connect NestDaddy Memory to any MCP app: ChatGPT, Claude, Cursor, VS Code and more |
-| [nestdaddy-examples](https://github.com/nestdaddy/nestdaddy-examples) | Python, JavaScript, curl and MCP examples for every endpoint |
-| [ollama-web-search](https://github.com/nestdaddy/ollama-web-search) | Give a local LLM (Ollama) live web search, news and page reading |
-| [news-digest-bot](https://github.com/nestdaddy/news-digest-bot) | A daily news digest to Telegram, Slack or email |
+| [nestdaddy-memory](https://github.com/nestdaddy-ai/nestdaddy-memory) | Connect NestDaddy Memory to any MCP app: ChatGPT, Claude, Cursor, VS Code and more |
+| [nestdaddy-examples](https://github.com/nestdaddy-ai/nestdaddy-examples) | Python, JavaScript, curl and MCP examples for every endpoint |
+| [ollama-web-search](https://github.com/nestdaddy-ai/ollama-web-search) | Give a local LLM (Ollama) live web search, news and page reading |
+| [news-digest-bot](https://github.com/nestdaddy-ai/news-digest-bot) | A daily news digest to Telegram, Slack or email |
 
 ### Start building
 
