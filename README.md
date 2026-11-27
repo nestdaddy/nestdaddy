@@ -1,3 +1,5 @@
+> **Our open-source projects now live at [github.com/nestdaddy-ai](https://github.com/nestdaddy-ai).**
+
 <div align="center">
 
 <img src="https://nestdaddy.com/static/android-chrome-512x512.png" alt="NestDaddy" width="96">
